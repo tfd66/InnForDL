@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "fun.zencat.game01",
-    "sha256_cert_fingerprints":
-    ["A7:DF:24:77:39:0D:7F:B1:3F:5B:B5:AC:2D:01:20:28:ED:91:E2:9F:95:AC:17:91:6F:BE:25:54:C1:0B:AA:E6"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "fun.zencat.game01",
+               "sha256_cert_fingerprints": ["A7:DF:24:77:39:0D:7F:B1:3F:5B:B5:AC:2D:01:20:28:ED:91:E2:9F:95:AC:17:91:6F:BE:25:54:C1:0B:AA:E6"] }
 }]
